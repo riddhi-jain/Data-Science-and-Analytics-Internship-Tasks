@@ -10,7 +10,7 @@ This repository contains the tasks that I completed while working as an intern f
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/riddhi-jain/The-Sparks-Foundation-Internship-Tasks/blob/main/Task_3_Decision_Tree/Notebook.ipynb)
 
 ### # Task-3 : Prediction using Decision Tree Algorithm(Level - Intermediate)
-_Click on the images on right side to view my solution._
+_Click on the images on right side to view my submission._
 
 1. For the given ‘Iris’ dataset, create the Decision Tree classifier and visualize it graphically.
 1. The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
@@ -19,7 +19,7 @@ _Click on the images on right side to view my solution._
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://github.com/riddhi-jain/The-Sparks-Foundation-Internship-Tasks/blob/main/Task_5_EDA_SampleSuperstore/EDASampleSuperstore.mp4)
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://public.tableau.com/app/profile/riddhi.jain6841/viz/SampleSuperStoreDashboard_16242997687360/Dashboard1)
 ### # Task-5 : To Explore Business Analytics (Level - Beginner & Intermediate)
-_Click on the images on right side to view my solution (preferably youtube)._
+_Click on the images on right side to view my submission._
 
 1. Perform ‘Exploratory Data Analysis’ on the provided dataset ‘SampleSuperstore’
 1. As a business manager, try to find out the weak areas where you can work to make more profit.
