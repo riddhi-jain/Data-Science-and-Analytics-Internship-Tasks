@@ -1,2 +1,2 @@
 # The-Sparks-Foundation-Internship-Tasks
-This repository sums up my tasks submitted during a month long internship at The Sparks Foundation as a Data Science and Business Analytics Intern.
+<img align = right height = 120 width = 120 src = https://www.thesparksfoundationsingapore.org/images/logo_small.png>
