@@ -7,7 +7,7 @@ This repository contains the tasks that I completed while working as an intern f
 - **Internship Type** - Work from Home
 
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://github.com/riddhi-jain/The-Sparks-Foundation-Internship-Tasks/blob/main/Task_3_Decision_Tree/bandicam%202021-06-11%2000-12-56-754.mp4)
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/riddhi-jain/The-Sparks-Foundation-Internship-Tasks/blob/main/Task_3_Decision_Tree/Notebook.ipynb)
+[<img align = right height = 50 width = 50 src = https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678072-folder-document-512.png>](https://github.com/riddhi-jain/The-Sparks-Foundation-Internship-Tasks/blob/main/Task_3_Decision_Tree/Notebook.ipynb)
 
 ### # Task-3 : Prediction using Decision Tree Algorithm(Level - Intermediate)
 _Click on the images on right side to view my submission._
@@ -17,7 +17,7 @@ _Click on the images on right side to view my submission._
 1. Data can be found at [https://bit.ly/3kXTdox](https://bit.ly/3kXTdox)
 
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://github.com/riddhi-jain/The-Sparks-Foundation-Internship-Tasks/blob/main/Task_5_EDA_SampleSuperstore/EDASampleSuperstore.mp4)
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://public.tableau.com/app/profile/riddhi.jain6841/viz/SampleSuperStoreDashboard_16242997687360/Dashboard1)
+[<img align = right height = 50 width = 50 src = https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678072-folder-document-512.png>](https://public.tableau.com/app/profile/riddhi.jain6841/viz/SampleSuperStoreDashboard_16242997687360/Dashboard1)
 ### # Task-5 : To Explore Business Analytics (Level - Beginner & Intermediate)
 _Click on the images on right side to view my submission._
 
