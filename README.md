@@ -1,13 +1,17 @@
 #   The-Sparks-Foundation-Internship-Tasks
 <img align = right height = 120 width = 120 src = https://www.thesparksfoundationsingapore.org/images/logo_small.png>
 
+
+
 This repository contains the tasks that I completed while working as an intern for [The Sparks Foundation.](https://www.thesparksfoundationsingapore.org/)
 - **Internship Category** - Data Science and Business Analytics
 - **Internship Duration** - 1 Month ( June-2021 )
 - **Internship Type** - Work from Home
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://github.com/riddhi-jain/The-Sparks-Foundation-Internship-Tasks/blob/main/Task_3_Decision_Tree/bandicam%202021-06-11%2000-12-56-754.mp4)
-[<img align = right height = 50 width = 50 src = https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678072-folder-document-512.png>](https://github.com/riddhi-jain/The-Sparks-Foundation-Internship-Tasks/blob/main/Task_3_Decision_Tree/Notebook.ipynb)
+
+
+[<img align = right height = 50 width = 50 src = https://cdn0.iconfinder.com/data/icons/music-231/48/Music-01-256.png>](https://github.com/riddhi-jain/The-Sparks-Foundation-Internship-Tasks/blob/main/Task_3_Decision_Tree/bandicam%202021-06-11%2000-12-56-754.mp4)
+[<img align = right height = 50 width = 50 src = https://cdn0.iconfinder.com/data/icons/work-from-home-19/512/DocumentManagement-documentation-folder-projectmanagement-filemanagement-512.png>](https://github.com/riddhi-jain/The-Sparks-Foundation-Internship-Tasks/blob/main/Task_3_Decision_Tree/Notebook.ipynb)
 
 ### # Task-3 : Prediction using Decision Tree Algorithm(Level - Intermediate)
 _Click on the images on right side to view my submission._
@@ -16,8 +20,8 @@ _Click on the images on right side to view my submission._
 1. The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
 1. Data can be found at [https://bit.ly/3kXTdox](https://bit.ly/3kXTdox)
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://github.com/riddhi-jain/The-Sparks-Foundation-Internship-Tasks/blob/main/Task_5_EDA_SampleSuperstore/EDASampleSuperstore.mp4)
-[<img align = right height = 50 width = 50 src = https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678072-folder-document-512.png>](https://public.tableau.com/app/profile/riddhi.jain6841/viz/SampleSuperStoreDashboard_16242997687360/Dashboard1)
+[<img align = right height = 50 width = 50 src = https://cdn0.iconfinder.com/data/icons/music-231/48/Music-01-256.png>](https://github.com/riddhi-jain/The-Sparks-Foundation-Internship-Tasks/blob/main/Task_5_EDA_SampleSuperstore/EDASampleSuperstore.mp4)
+[<img align = right height = 50 width = 50 src = https://cdn0.iconfinder.com/data/icons/work-from-home-19/512/DocumentManagement-documentation-folder-projectmanagement-filemanagement-512.png>](https://public.tableau.com/app/profile/riddhi.jain6841/viz/SampleSuperStoreDashboard_16242997687360/Dashboard1)
 ### # Task-5 : To Explore Business Analytics (Level - Beginner & Intermediate)
 _Click on the images on right side to view my submission._
 
