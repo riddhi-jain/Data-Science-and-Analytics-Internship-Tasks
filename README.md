@@ -9,7 +9,7 @@ This repository contains the tasks that I completed while working as an intern f
 - **Internship Type** - Work from Home
 
 
-[<img align = right height = 50 width = 50 src = https://cdn0.iconfinder.com/data/icons/work-from-home-19/512/DocumentManagement-documentation-folder-projectmanagement-filemanagement-512.png>](https://github.com/riddhi-jain/The-Sparks-Foundation-Internship-Tasks/blob/main/Task_3_Decision_Tree/DECISION_TREE.ipynb)
+[<img align = right height = 50 width = 50 src = https://cdn0.iconfinder.com/data/icons/work-from-home-19/512/DocumentManagement-documentation-folder-projectmanagement-filemanagement-512.png>](https://github.com/riddhi-jain/The-Sparks-Foundation-Internship-Tasks/blob/main/Task_1_Supervised_prediction/Supervised_ML_prediction.ipynb)
 
 ### # Task-1 : Prediction using Supervised ML (Level - Beginner)
 _Click on the icon on right side to view my submission._
@@ -30,8 +30,9 @@ _Click on the icon on right side to view my submission._
 2. The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
 3. Data can be found at [https://bit.ly/3kXTdox](https://bit.ly/3kXTdox)
 
-[<img align = right height = 50 width = 50 src = https://cdn0.iconfinder.com/data/icons/music-231/48/Music-01-256.png>](https://github.com/riddhi-jain/The-Sparks-Foundation-Internship-Tasks/blob/main/Task_5_EDA_SampleSuperstore/EDASampleSuperstore.mp4)
+
 [<img align = right height = 50 width = 50 src = https://cdn0.iconfinder.com/data/icons/work-from-home-19/512/DocumentManagement-documentation-folder-projectmanagement-filemanagement-512.png>](https://public.tableau.com/app/profile/riddhi.jain6841/viz/SampleSuperStoreDashboard_16242997687360/Dashboard1)
+[<img align = right height = 50 width = 50 src = https://cdn0.iconfinder.com/data/icons/music-231/48/Music-01-256.png>](https://github.com/riddhi-jain/The-Sparks-Foundation-Internship-Tasks/blob/main/Task_5_EDA_SampleSuperstore/EDASampleSuperstore.mp4)
 
 ### # Task-5 : To Explore Business Analytics (Level - Beginner & Intermediate)
 _Click on the icons on right side to view my submission._
