@@ -1,4 +1,4 @@
-#   The-Sparks-Foundation-Internship-Tasks
+#   Data-Science-and-Analytics-Internship-Tasks
 <img align = right height = 120 width = 120 src = https://www.thesparksfoundationsingapore.org/images/logo_small.png>
 
 
@@ -20,6 +20,14 @@ _Click on the icon on right side to view my submission._
 4. Data can be found at [http://bit.ly/w-data](http://bit.ly/w-data)
 5. What will be predicted score if a student studies for 9.25 hrs/ day?
 
+[<img align = right height = 50 width = 50 src = https://cdn0.iconfinder.com/data/icons/work-from-home-19/512/DocumentManagement-documentation-folder-projectmanagement-filemanagement-512.png>](https://github.com/riddhi-jain/Data-Science-and-Analytics-Internship-Tasks/blob/main/Task_2_Unsupervised_prediction/Unsupervised_Prediction.ipynb)
+
+### :point_right: Task-2 : Prediction using Unsupervised ML (Level - Beginner)
+_Click on the icon on right side to view my submission._
+
+1. From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
+2. Use R or Python or perform this task
+3. Dataset : https://bit.ly/3kXTdox
 
 [<img align = right height = 50 width = 50 src = https://cdn0.iconfinder.com/data/icons/work-from-home-19/512/DocumentManagement-documentation-folder-projectmanagement-filemanagement-512.png>](https://github.com/riddhi-jain/The-Sparks-Foundation-Internship-Tasks/blob/main/Task_3_Decision_Tree/DECISION_TREE.ipynb)
 
