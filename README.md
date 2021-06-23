@@ -32,7 +32,7 @@ _Click on the icon on right side to view my submission._
 
 
 [<img align = right height = 50 width = 50 src = https://cdn0.iconfinder.com/data/icons/work-from-home-19/512/DocumentManagement-documentation-folder-projectmanagement-filemanagement-512.png>](https://public.tableau.com/app/profile/riddhi.jain6841/viz/SampleSuperStoreDashboard_16242997687360/Dashboard1)
-[<img align = right height = 50 width = 50 src = https://cdn0.iconfinder.com/data/icons/music-231/48/Music-01-256.png>](https://github.com/riddhi-jain/The-Sparks-Foundation-Internship-Tasks/blob/main/Task_5_EDA_SampleSuperstore/EDASampleSuperstore.mp4)
+[<img align = right height = 60 width = 60 src = https://cdn2.iconfinder.com/data/icons/multimedia-27/512/Multimedia-play-youtube-playlist-video-watch-128.png>](https://github.com/riddhi-jain/The-Sparks-Foundation-Internship-Tasks/blob/main/Task_5_EDA_SampleSuperstore/EDASampleSuperstore.mp4)
 
 ### # Task-5 : To Explore Business Analytics (Level - Beginner & Intermediate)
 _Click on the icons on right side to view my submission._
